@@ -1,8 +1,6 @@
 /*
 
  MSE 2202 MSEBot base code for Lab 3
- Language: Arduino
- Authors: Eugen Porter and Michael Naish
  
  Rev 1 - Initial version 2016
  Rev 2 - Update for MSEduino V0.2
